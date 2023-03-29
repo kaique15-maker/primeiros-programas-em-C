@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679529237 source:c:\users\kaique\desktop\curso prog\programas c\menor_de_tres\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

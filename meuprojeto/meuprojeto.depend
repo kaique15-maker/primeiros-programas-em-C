@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1679520965 source:c:\users\kaique\desktop\curso prog\programas c\meuprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1679516612 source:c:\users\kaique\desktop\curso prog\programas c\meuprojeto\teste1.c
+	<stdio.h>
+	<string.h>
+
